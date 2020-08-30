@@ -1,6 +1,6 @@
 # University_Attendance_System
 
-project name : Univarsity Attendance System                     
+project name : University Attendance System                     
 
 language : JAVA
 
